@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(146, 203, 226);
+}
+
+h1 {
+    color: rgb(47, 28, 112);
+}
+
+h2{
+    color: red;
+}
+
+p{
+    color: rgb(12, 12, 189);
+}
+
+img{
+    border: 20px solid green;
+}
